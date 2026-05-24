@@ -3,8 +3,8 @@ https://github.com/SamuelLanders/Godot_4x_RandomNamesGenerator#RandomNamesGenera
 
 🛠️ Installation
 
-Download the RandomTimer addon for Godot 4.x.
-Extract the random_timer folder into the addons folder within your Godot project directory.
+Download the RandomNamesGenerator addon for Godot 4.x.
+Extract the randomnamesgenerator folder into the addons folder within your Godot project directory.
 Enable the addon in Godot's plugins tab. (Project > Project Settings > Plugins)
 
 
@@ -22,9 +22,10 @@ Generates an array of names (strings) with current indexed entries of:
 
 Using multiple different methods, including a small database of a few thousand names commonly found in the world, this generator builds multiple random full names for you to quickly choose from. It generates both true real world, and realistic fantasy names. The underlying code is designed to be expandable. Please feel free to help contribute to its growth.
 
-This is a 'Main screen plugin' and will appear next to the 2D,3D,Script,AssetLib buttons in the top center of Godot 4.x
+This is a 'Main screen plugin' and will appear next to the 2D, 3D, Script, AssetLib buttons in the top center of Godot 4.x
 
 💖 Credits
 
 This work is a derivative work of Emi @emi_cpl https://www.youtube.com/@emi_cpl updated for Godot 4.0
+
 It has been further developed by Samuel Landers of tigerwil@hotmail.com
